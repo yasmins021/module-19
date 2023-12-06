@@ -40,7 +40,7 @@ h1 {
 .cm-s-monokai.CodeMirror{
   background-color: var(--monoaki);
 }
-.cm-s-monokai spam.cm-comment{
+.cm-s-monokai span.cm-comment{
   color: #cbf078;
 }
 .loading-spinner {
