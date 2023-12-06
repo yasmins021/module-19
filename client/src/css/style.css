@@ -37,6 +37,12 @@ h1 {
   padding-top: 10px;
 }
 
+.cm-s-monokai.CodeMirror{
+  background-color: var(--monoaki);
+}
+.cm-comment{
+  color: #cbf078;
+}
 .loading-spinner {
   animation-duration: 0.75s;
   animation-iteration-count: infinite;
